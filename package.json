@@ -1,0 +1,17 @@
+{
+  "name": "testimonial-page",
+  "version": "1.0.0",
+  "description": "![Thumbnail for the Testimonial Page coding challenge](./thumbnail.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "dev": "tsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.8.2"
+  }
+}
