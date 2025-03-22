@@ -4,7 +4,7 @@ This implementation features a reusable Web Component for testimonial cards that
 
 Based on the solution for the [testimonial-page](https://devchallenges.io/challenge/testimonial-page) challenge from [devChallenges.io](http://devchallenges.io).
 
-## [Demo](https://your-solution-url.com) | [Challenge](https://devchallenges.io/challenge/testimonial-page)
+## [Demo](https://testimonialcard-wc-nickescolr.netlify.app/) | [Challenge](https://devchallenges.io/challenge/testimonial-page)
 
 ## Table of Contents
 
